@@ -1,0 +1,36 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.ab{
+    background-color: gray;
+}
+
+.margin{
+    padding-bottom: 30px;
+}
+
+.marginp{
+    padding-top: 65px;
+}
+
+.margin3{
+    padding-top: 20px;
+}
+
+.ct{
+    background-color:black;
+}
+
+.colorx{
+    color:white;
+}
+
+.rig{
+    margin-right: 180px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
